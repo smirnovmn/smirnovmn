@@ -39,6 +39,11 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/)
 
 
-### My social networks:
+### 📬 Способы связи:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mishaaa1111)
 [![email](https://img.shields.io/static/v1?style=for-the-badge&message=email&color=red&logo=maildotru&logoColor=FFFFFF&label=)](mailto:mishasmirnovog@gmail.com)
+
+## Статистика:
+
+[![smirnovmn GitHub stats](https://github-readme-stats.vercel.app/api?username=smirnovmn&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
