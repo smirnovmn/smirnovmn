@@ -37,3 +37,8 @@
 [![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud%20-%23000.svg?&style=for-the-badge&logo=yandex-cloud&logoColor=blue)](https://yandex.cloud/ru/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/)
+
+
+### My social networks:
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mishaaa1111)
+[![email](https://img.shields.io/static/v1?style=for-the-badge&message=email&color=red&logo=maildotru&logoColor=FFFFFF&label=)](mailto:mishasmirnovog@gmail.com)
